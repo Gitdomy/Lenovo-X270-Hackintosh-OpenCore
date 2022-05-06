@@ -2,7 +2,7 @@
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
 You need to patch your systems own DSDT 
 
-![X270](Images/screen.png)
+![X270]
 
 # Update History
 - [x] Trackpad (gestures fixed)
