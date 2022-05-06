@@ -43,7 +43,7 @@ You need to patch your systems own DSDT
 - [x] Intel Ethernet port
 - [x] Realtek Audio (including headphones jack)
 - [x] Internal camera (including Facetime)
-- [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
+- [x] Trackpad (gestures fixed)
 - [x] Shutdown / Reboot 
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi & Bluetooth (including Apple services)
