@@ -1,10 +1,11 @@
-# Lenovo-X270-Hackintosh-Monterey-OpenCore-0.7.6
+# Lenovo-X270-Hackintosh-Monterey-OpenCore-0.8.0
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
 You need to patch your systems own DSDT 
 
-![X270](Images/screen.png)
+![X270]
 
 # Update History
+- [x] Trackpad (gestures fixed)
 - [x] macOS 12.1
 - [x] macOS 12.2
 
@@ -43,7 +44,7 @@ You need to patch your systems own DSDT
 - [x] Intel Ethernet port
 - [x] Realtek Audio (including headphones jack)
 - [x] Internal camera (including Facetime)
-- [x] Trackpad (gestures work but not the trackpad click. tap to click works.)
+- [x] Trackpad (gestures fixed)
 - [x] Shutdown / Reboot 
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi & Bluetooth (including Apple services)
